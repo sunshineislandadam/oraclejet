@@ -14,7 +14,7 @@
     "signals": "1.0.0",
     "knockout": "3.5.1",
     "requirejs": "2.3.6",
-    "requirejs-text": "2.0.15",
+    "requirejs-text": "2.0.16",
     "@webcomponents/custom-elements": "1.1.2",
     "proj4": "2.6.3",
     "require-css": "0.1.10",
